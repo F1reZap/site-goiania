@@ -1,5 +1,32 @@
 body{
     background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(185, 185, 233);
+}
+h2{
+    color: darkblue;
+}
+h3{
+    color: darkcyan;
+}
+h4{
+    color: darkslateblue;
+}
+p{
+    color: black;
+}
+.div-Upper_Bar{
+    background-color: #000000;
+    padding: 25px;
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: antiquewhite;
 }
 h1{
     color: navy;
