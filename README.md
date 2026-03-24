@@ -2,4 +2,4 @@
 
 projeto do site pros territórios da congregção
 
-ta arquivo css adicionado 24/03
+ta arquivo css e Javascript adicionados 24/03
