@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Site Territórios Goiânia</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style\estilo.css">
+        <script src="script\script.js" defer></script>
+    </head>
+    <body>
+        <div class="Upper_Bar" id="home">
+            <p class="title">Home page</p>
+            <img src="imagens/hmbr.png" alt="MenuIcon" class="menu-icon" width="25" height="25" id="toggleSidebar">
+        </div>
+        <div class="Side_Bar">
+            <!-- /adicionar os territórios de cada grupo no futuro/ -->
+            <h2>Grupos</h2>
+            <nav>
+                <a href="grupo1/">Grupo1</a><br>
+                <a href="grupo2/">Grupo2</a><br>
+                <a href="grupo3/">Grupo3</a><br>
+                <a href="grupo4/">Grupo4</a><br>
+                <a href="grupo5/">Grupo5</a><br>
+            </nav>
+        </div>
+        <div class="main_page">
+            <h1><a href="/">Home</a></h1>
+            <h2>Site de territórios da Congregação Goiânia</h2>
+            <p>Prova de conceito pro site contendo os territórios da congregação Goiânia.</p>
+        </div>
+        <h2></h2>
+
+
+
+
+        <script>
+            document.getElementById('toggleSidebar').addEventListener('click', function() {
+                var sidebar = document.querySelector('.Side_Bar');
+                sidebar.style.display = sidebar.style.display === 'none' ? 'flex' : 'none';
+            });
+        </script>
+    </body>
+</html>
