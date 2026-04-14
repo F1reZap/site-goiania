@@ -10,4 +10,8 @@ mais coisas adicionadas no Index.html
 
 pagina de login
 
-25/03
+14/04
+
+melhoria na estrutura de organização
+
+versão 0.1 pronta e virando um release
