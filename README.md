@@ -15,3 +15,7 @@ pagina de login
 melhoria na estrutura de organização
 
 versão 0.1 pronta e virando um release
+
+24/04
+
+adicionadas mais 2 páginas pra separar os territórios
