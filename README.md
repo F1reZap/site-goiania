@@ -19,3 +19,9 @@ versão 0.1 pronta e virando um release
 24/04
 
 adicionadas mais 2 páginas pra separar os territórios
+
+25/04
+
+mais 2 páginas pros territórios 
+
+e uma forma de voltar pra home
